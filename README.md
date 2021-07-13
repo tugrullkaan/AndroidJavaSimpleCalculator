@@ -1,2 +1,2 @@
 # AndroidJavaSimpleCalculator
-basit bir hesap makinesi uygulaması
+basit bir hesap makinesi uygulaması AndroidStudio Java 
